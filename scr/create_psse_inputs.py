@@ -1,4 +1,5 @@
-# Script to test the psspy function for creating a  Saved Case File (.sav)
+""" Script to test the psspy function for creating a  Saved Case File (.sav) and (.raw) """
+
 import pssepath
 pssepath.add_pssepath()
 
